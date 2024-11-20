@@ -29,14 +29,18 @@ Simplify the continuous Age feature by grouping it into meaningful categories:
 - Middle Age (31–54 years)
 - Old (>54 years)
 - Invalid (if age falls outside these ranges)
+
 Add a new column, “Age Bracket”, to store these categories for enhanced interpretability.
+![image](https://github.com/user-attachments/assets/da986eb8-b62b-4ab3-b839-2f1638f51f5a)
 
 4. Create Pivot Tables for Insights
 - Dedicate a separate sheet for pivot tables to facilitate easy updates and adjustments.
 - Build pivot tables based on specific questions and outline the key metrics.
 - Lay the groundwork for a simple dashboard to present data interactively.
+![image](https://github.com/user-attachments/assets/b425a221-16d0-4f53-971c-34a2a7fd3fd7)
 
 5. Design an Interactive Dashboard
 - Create a dedicated sheet for the dashboard.
 - Incorporate slicers to filter variables dynamically and uncover deeper insights.
 - Format the dashboard and slicers with a cohesive and professional theme to enhance visual appeal.
+![image](https://github.com/user-attachments/assets/336cb977-b1a6-4ff4-9829-c57b2a25c1e7)
