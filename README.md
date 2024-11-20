@@ -50,9 +50,13 @@ Add a new column, “Age Bracket”, to store these categories for enhanced inte
 - Incorporate slicers to filter variables dynamically and uncover deeper insights.
 - Format the dashboard and slicers with a cohesive and professional theme to enhance visual appeal.
 
-![image](https://github.com/user-attachments/assets/3b2a2e04-b396-48eb-9335-4cf27eb9fc7e)
+![Uploading Dashboard GIF.gif…]()
+
+
 
 ## Answer the questions:
+
+![image](https://github.com/user-attachments/assets/3b2a2e04-b396-48eb-9335-4cf27eb9fc7e)
 **1. Which region has the highest bike sales?**
 - North America has the highest bike sales, followed by Europe and the Pacific.
 - In the Pacific and North America, males tend to buy more bikes than females, whereas in Europe, women purchase more bikes than men.
