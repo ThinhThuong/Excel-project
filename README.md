@@ -9,7 +9,7 @@ To identify potential target markets and ideal customer profiles to optimize sal
 
 ## Question:
 1. Which region has the highest bike sales?
-2. What gender is more likely to buy a bike?
+2. How does average income affect the decision to buy a bike?
 3. Is there a relationship between commute distance and bike purchases?
 4. Which age range has the highest number of bike buyers?
 
