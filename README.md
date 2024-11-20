@@ -1,4 +1,4 @@
-# Bike Sale Data Analysis (using Excel)
+![image](https://github.com/user-attachments/assets/1d97c618-0a40-475a-ba96-279dd5061b78)# Bike Sale Data Analysis (using Excel)
 ## Introduction:
 This report presents a data analysis conducted on a dataset containing information about bike sales over a one-year period. 
 ## Dataset: 
@@ -31,6 +31,7 @@ Simplify the continuous Age feature by grouping it into meaningful categories:
 - Invalid (if age falls outside these ranges)
 
 Add a new column, “Age Bracket”, to store these categories for enhanced interpretability.
+
 ![image](https://github.com/user-attachments/assets/da986eb8-b62b-4ab3-b839-2f1638f51f5a)
 
 4. Create Pivot Tables for Insights
@@ -43,4 +44,6 @@ Add a new column, “Age Bracket”, to store these categories for enhanced inte
 - Create a dedicated sheet for the dashboard.
 - Incorporate slicers to filter variables dynamically and uncover deeper insights.
 - Format the dashboard and slicers with a cohesive and professional theme to enhance visual appeal.
-![image](https://github.com/user-attachments/assets/336cb977-b1a6-4ff4-9829-c57b2a25c1e7)
+
+![image](https://github.com/user-attachments/assets/3b2a2e04-b396-48eb-9335-4cf27eb9fc7e)
+
