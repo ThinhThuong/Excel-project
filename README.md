@@ -6,6 +6,8 @@ The dataset
 <a href="https://github.com/ThinhThuong/Excel-project/blob/main/1.%20Project%20Bike%20Sales.xlsx">Bike Sale</a>
 comprises 1027 rows (including a header row) and 13 columns.
 
+![image](https://github.com/user-attachments/assets/29978338-3e50-411b-9449-88e931f3e829)
+
 ## Objective:
 To identify potential target markets and ideal customer profiles to optimize sales strategies and attract more customers.
 
