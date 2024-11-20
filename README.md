@@ -12,3 +12,31 @@ To identify potential target markets and ideal customer profiles to optimize sal
 2. What gender is more likely to buy a bike?
 3. Is there a relationship between commute distance and bike purchases?
 4. Which age range has the highest number of bike buyers?
+
+## Process
+1. Eliminate Duplicate Records
+Start by removing duplicate rows to ensure the dataset is clean and accurate for analysis.
+
+2. Simplify Confusing Values
+Replace ambiguous values in the columns “Marital Status” and “Gender” for better readability:
+- Convert M to Married and S to Single.
+- Convert F to Female and M to Male.
+Example: Change M in Marital Status to Married for clarity.
+
+3. Group Age into Categories
+Simplify the continuous Age feature by grouping it into meaningful categories:
+- Adolescent (<31 years)
+- Middle Age (31–54 years)
+- Old (>54 years)
+- Invalid (if age falls outside these ranges)
+Add a new column, “Age Bracket”, to store these categories for enhanced interpretability.
+
+4. Create Pivot Tables for Insights
+- Dedicate a separate sheet for pivot tables to facilitate easy updates and adjustments.
+- Build pivot tables based on specific questions and outline the key metrics.
+- Lay the groundwork for a simple dashboard to present data interactively.
+
+5. Design an Interactive Dashboard
+- Create a dedicated sheet for the dashboard.
+- Incorporate slicers to filter variables dynamically and uncover deeper insights.
+- Format the dashboard and slicers with a cohesive and professional theme to enhance visual appeal.
