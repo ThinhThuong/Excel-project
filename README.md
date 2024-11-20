@@ -8,7 +8,7 @@ This report presents a data analysis conducted on a dataset containing informati
 To identify potential target markets and ideal customer profiles to optimize sales strategies and attract more customers.
 
 ## Question
-1. Which country has the highest bike sales?
+1. Which region has the highest bike sales?
 2. What gender is more likely to buy a bike?
 3. Is there a relationship between commute distance and bike purchases?
 4. Which age range has the highest number of bike buyers?
@@ -47,3 +47,22 @@ Add a new column, “Age Bracket”, to store these categories for enhanced inte
 
 ![image](https://github.com/user-attachments/assets/3b2a2e04-b396-48eb-9335-4cf27eb9fc7e)
 
+## Answer asked questions
+1. Which region has the highest bike sales?
+- North America has the highest bike sales, followed by Europe and the Pacific.
+- In the Pacific and North America, males tend to buy more bikes than females, whereas in Europe, women purchase more bikes than men.
+2. How does average income affect the decision to buy a bike?
+- People who purchase bikes tend to have a significantly higher income than those who do not buy bikes, for both females and males.
+- The average income for female bike buyers is nearly $55,700, while the average income for male bike buyers is about $60,000.
+3. Is there a relationship between commute distance and bike purchases?
+- Most people who buy bikes have a commute distance of 0-1 miles.
+- People with a commute distance of 5 miles or more tend to avoid purchasing bikes.
+4. Which age range has the highest number of bike buyers?
+- The middle-aged group (31-54 years) has a significantly higher number of bike buyers compared to non-buyers.
+- In other age groups (adolescents and older adults), the number of people who do not buy bikes is higher than those who do.
+
+## Recommendation
+- Target regions with lower sales potential: Given the high sales in North America, explore strategies to increase bike sales in regions like Europe and the Pacific, where there are gender-based purchasing differences.
+- Tailor marketing to income segments: Since higher income correlates with bike purchases, focus marketing efforts on individuals with disposable income. Highlight bikes as a practical and efficient investment, particularly in affluent areas.
+- Promote convenience for short commutes: Emphasize the benefits of bikes for shorter commutes, especially in urban areas, where biking can be a more efficient and eco-friendly alternative to cars.
+Develop products and services for middle-aged buyers: As middle-aged individuals are the largest group of bike buyers, consider offering bikes and related products that cater to their lifestyle, including comfortable designs, easy maintenance, and convenience for commuting.
