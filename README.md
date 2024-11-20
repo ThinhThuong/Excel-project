@@ -38,6 +38,7 @@ Add a new column, “Age Bracket”, to store these categories for enhanced inte
 - Dedicate a separate sheet for pivot tables to facilitate easy updates and adjustments.
 - Build pivot tables based on specific questions and outline the key metrics.
 - Lay the groundwork for a simple dashboard to present data interactively.
+
 ![image](https://github.com/user-attachments/assets/b425a221-16d0-4f53-971c-34a2a7fd3fd7)
 
 ### 5. Design an Interactive Dashboard
