@@ -7,13 +7,13 @@ This report presents a data analysis conducted on a dataset containing informati
 ## Objective:
 To identify potential target markets and ideal customer profiles to optimize sales strategies and attract more customers.
 
-## Question
+## Question:
 1. Which region has the highest bike sales?
 2. What gender is more likely to buy a bike?
 3. Is there a relationship between commute distance and bike purchases?
 4. Which age range has the highest number of bike buyers?
 
-## Process
+## Process:
 ### 1. Eliminate Duplicate Records
 Start by removing duplicate rows to ensure the dataset is clean and accurate for analysis.
 
@@ -47,7 +47,7 @@ Add a new column, “Age Bracket”, to store these categories for enhanced inte
 
 ![image](https://github.com/user-attachments/assets/3b2a2e04-b396-48eb-9335-4cf27eb9fc7e)
 
-## Answer asked questions
+## Answer the questions:
 1. Which region has the highest bike sales?
 - North America has the highest bike sales, followed by Europe and the Pacific.
 - In the Pacific and North America, males tend to buy more bikes than females, whereas in Europe, women purchase more bikes than men.
@@ -61,7 +61,7 @@ Add a new column, “Age Bracket”, to store these categories for enhanced inte
 - The middle-aged group (31-54 years) has a significantly higher number of bike buyers compared to non-buyers.
 - In other age groups (adolescents and older adults), the number of people who do not buy bikes is higher than those who do.
 
-## Recommendation
+## Recommendations:
 - Target regions with lower sales potential: Given the high sales in North America, explore strategies to increase bike sales in regions like Europe and the Pacific, where there are gender-based purchasing differences.
 - Tailor marketing to income segments: Since higher income correlates with bike purchases, focus marketing efforts on individuals with disposable income. Highlight bikes as a practical and efficient investment, particularly in affluent areas.
 - Promote convenience for short commutes: Emphasize the benefits of bikes for shorter commutes, especially in urban areas, where biking can be a more efficient and eco-friendly alternative to cars.
