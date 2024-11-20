@@ -50,9 +50,7 @@ Add a new column, “Age Bracket”, to store these categories for enhanced inte
 - Incorporate slicers to filter variables dynamically and uncover deeper insights.
 - Format the dashboard and slicers with a cohesive and professional theme to enhance visual appeal.
 
-![Uploading Dashboard GIF.gif…]()
-
-
+<a href="https://github.com/ThinhThuong/Excel-project/blob/main/Interactive%20Dashboard.gif">View interactive dashboard</a>
 
 ## Answer the questions:
 
