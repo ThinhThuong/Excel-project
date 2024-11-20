@@ -54,12 +54,15 @@ Add a new column, “Age Bracket”, to store these categories for enhanced inte
 **1. Which region has the highest bike sales?**
 - North America has the highest bike sales, followed by Europe and the Pacific.
 - In the Pacific and North America, males tend to buy more bikes than females, whereas in Europe, women purchase more bikes than men.
+
 **2. How does average income affect the decision to buy a bike?**
 - People who purchase bikes tend to have a significantly higher income than those who do not buy bikes, for both females and males.
 - The average income for female bike buyers is nearly $55,700, while the average income for male bike buyers is about $60,000.
+
 **3. Is there a relationship between commute distance and bike purchases?**
 - Most people who buy bikes have a commute distance of 0-1 miles.
 - People with a commute distance of 5 miles or more tend to avoid purchasing bikes.
+
 **4. Which age range has the highest number of bike buyers?**
 - The middle-aged group (31-54 years) has a significantly higher number of bike buyers compared to non-buyers.
 - In other age groups (adolescents and older adults), the number of people who do not buy bikes is higher than those who do.
